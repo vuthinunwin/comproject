@@ -67,6 +67,9 @@
      <div class="input-group">
   	  <button type="submit" class="btn" name="reg_user">Register</button>
   	</div>
+  	<p>
+  		Already a member? <a href="loginpage.php">Login</a>
+  	</p>
     </form>
 	
 </body>
